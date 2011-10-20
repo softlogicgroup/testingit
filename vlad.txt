@@ -3,3 +3,5 @@ Hello, vlad!
 Another addition.
 
 Another commit!
+
+Working on ticket DEMO-7
